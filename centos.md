@@ -157,24 +157,24 @@
 
 ### 其他:
 
-* # su -                          切换到root权限（与su有区别）
+* su -                          切换到root权限（与su有区别）
 
-* # shutdown -h now               关机
+* shutdown -h now               关机
 
-* # shutdown -r now               重启
+* shutdown -r now               重启
 
-* # top                           罗列使用CPU资源最多的linux任务 （输入q退出）
+* top                           罗列使用CPU资源最多的linux任务 （输入q退出）
 
-* # pstree                        以树状图显示程序
+* pstree                        以树状图显示程序
 
-* # man ping                      查看参考手册（例如ping 命令）
+* man ping                      查看参考手册（例如ping 命令）
 
-* # passwd                        修改密码
+* passwd                        修改密码
 
-* # df -h                               显示磁盘的使用情况
+* df -h                         显示磁盘的使用情况
 
-* # cal -3                             显示前一个月，当前月以及下一个月的月历
+* cal -3                        显示前一个月，当前月以及下一个月的月历
 
-* # cal 10 1988                   显示指定月，年的月历
+* cal 10 1988                   显示指定月，年的月历
 
-* # date --date '1970-01-01 UTC 1427888888 seconds'   把一相对于1970-01-01 00:00的秒数转换成时间
+* date --date '1970-01-01 UTC 1427888888 seconds'   把一相对于1970-01-01 00:00的秒数转换成时间
